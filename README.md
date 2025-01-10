@@ -1,6 +1,6 @@
 # first_repo
 <br>
-learning how to create
+learning how to create.
 <br>
 repo <it style="color='green'">On github.com </it>
 <br>
